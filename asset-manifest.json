@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Entrennection/static/css/main.c2215076.css",
-    "main.js": "/Entrennection/static/js/main.636e722b.js",
+    "main.js": "/Entrennection/static/js/main.7f437ed6.js",
     "static/js/787.952163c7.chunk.js": "/Entrennection/static/js/787.952163c7.chunk.js",
     "static/media/login.png": "/Entrennection/static/media/login.9aa4c7fbfee2999af12c.png",
     "static/media/imgmentoria.png": "/Entrennection/static/media/imgmentoria.3a93b86ec00190af0191.png",
@@ -73,11 +73,11 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/Entrennection/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "index.html": "/Entrennection/index.html",
     "main.c2215076.css.map": "/Entrennection/static/css/main.c2215076.css.map",
-    "main.636e722b.js.map": "/Entrennection/static/js/main.636e722b.js.map",
+    "main.7f437ed6.js.map": "/Entrennection/static/js/main.7f437ed6.js.map",
     "787.952163c7.chunk.js.map": "/Entrennection/static/js/787.952163c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2215076.css",
-    "static/js/main.636e722b.js"
+    "static/js/main.7f437ed6.js"
   ]
 }
